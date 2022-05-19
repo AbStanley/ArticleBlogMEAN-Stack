@@ -10,8 +10,8 @@ You'll be be able to post articles for public view, you can mark other articles 
 ![addarticle](https://user-images.githubusercontent.com/25715005/169297923-1688742b-f6a0-4aac-bf8a-09130d6294b6.png)
 ![myprofile](https://user-images.githubusercontent.com/25715005/169297934-db0dc5f3-fcc7-446d-afac-7aa086560607.png)
 
-and of course, you'll be able to read the article. You can delete or modify your articles!
-[Screenshot 2022-05-19 063949](https://user-images.githubusercontent.com/25715005/169298091-b10c13d2-28e8-4bc6-89ad-abf1b92e15e7.png)
+and of course, you'll be able to read the article. You can delete or modify your articles
+![Screenshot 2022-05-19 063949](https://user-images.githubusercontent.com/25715005/169298091-b10c13d2-28e8-4bc6-89ad-abf1b92e15e7.png)
 
 
 Development server
